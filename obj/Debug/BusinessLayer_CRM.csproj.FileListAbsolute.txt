@@ -1,0 +1,12 @@
+C:\Users\thirupathireddy.k.WELKIN\Documents\Visual Studio 2012\Projects\CRM.Groupwelkin.in\BusinessLayer_CRM\bin\Debug\BusinessLayer_CRM.dll
+C:\Users\thirupathireddy.k.WELKIN\Documents\Visual Studio 2012\Projects\CRM.Groupwelkin.in\BusinessLayer_CRM\bin\Debug\BusinessLayer_CRM.pdb
+C:\Users\thirupathireddy.k.WELKIN\Documents\Visual Studio 2012\Projects\CRM.Groupwelkin.in\BusinessLayer_CRM\obj\Debug\BusinessLayer_CRM.dll
+C:\Users\thirupathireddy.k.WELKIN\Documents\Visual Studio 2012\Projects\CRM.Groupwelkin.in\BusinessLayer_CRM\obj\Debug\BusinessLayer_CRM.pdb
+C:\Users\thirupathireddy.k.WELKIN\Documents\Visual Studio 2012\Projects\CRM.Groupwelkin.in\BusinessLayer_CRM\bin\Debug\BusinessLayer_CRM.dll.config
+C:\Users\thirupathireddy.k.WELKIN\Documents\Visual Studio 2012\Projects\CRM.Groupwelkin.in\BusinessLayer_CRM\obj\Debug\BusinessLayer_CRM.csprojResolveAssemblyReference.cache
+E:\Responcive_Projects\BusinessLayer_CRM\bin\Debug\BusinessLayer_CRM.dll.config
+E:\Responcive_Projects\BusinessLayer_CRM\bin\Debug\BusinessLayer_CRM.dll
+E:\Responcive_Projects\BusinessLayer_CRM\bin\Debug\BusinessLayer_CRM.pdb
+E:\Responcive_Projects\BusinessLayer_CRM\obj\Debug\BusinessLayer_CRM.dll
+E:\Responcive_Projects\BusinessLayer_CRM\obj\Debug\BusinessLayer_CRM.pdb
+E:\Responcive_Projects\BusinessLayer_CRM\obj\Debug\BusinessLayer_CRM.csprojResolveAssemblyReference.cache
